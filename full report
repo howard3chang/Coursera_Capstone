@@ -1,0 +1,14 @@
+⦁	Introduction where you discuss the business problem and who would be interested in this project.
+⦁	Tourism is a 8 trillion dollar industry.  Explore the top 2 tourist cities and the bottom 2 tourist cities(out of 100) to see how similar or dissimilar they are. Do the cities with more tourism have a higher concentration of a particular venue? This type of analysis is to provide insight to cities that are looking to improve tourism on which type of venues to build.
+
+⦁	Data where you describe the data that will be used to solve the problem and the source of the data.
+⦁	First the cities to be examined with be determined from Wikipedia. (https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors) this list is based off the data from 2018 Euromonitor. Based on this data Top two cities to be compared will be Hong Kong and Bangkok. Bottom two cities will be Krabi and Bangalore.  Data from Foursquare will be used to extract the number of venues populating the cities. A comparison will then be made on the venues of each city. Idea is that the top cities will have similar characteristics while the bottom cities will have dissimilar characteristics.
+⦁	  
+⦁	Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+⦁	
+⦁	Results section where you discuss the results.
+⦁	
+⦁	Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+⦁	
+⦁	
+⦁	Conclusion section where you conclude the report.
