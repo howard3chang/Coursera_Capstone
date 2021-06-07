@@ -36,7 +36,6 @@ Once the data sets were cleaned, the neighborhoods were marked on folium maps of
 #Results 
 
    
-Austin						San Jose
 Five clusters were set for San Jose, 14 of 17 neighborhoods were clustered in label 1, the remaining minority clusters have one neighborhood each. The top venue for the San Jose minority clusters is Café, Park, Financial or Legal Service, and Cocktail Bar.  Label 1 was centered on food and entertainment. Four clusters were set for Austin,   14 of 18 neighborhoods were clustered on label 0, the remaining minority clusters have 1 neighborhood with one cluster having 2 neighborhoods. The top venue for the Austin minority clusters is Pizza Place, Financial or Legal Service, Food stand, Vietnamese Restaurant.
 
 #Discussion
