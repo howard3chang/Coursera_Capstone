@@ -1,0 +1,12 @@
+⦁	Data where you describe the data that will be used to solve the problem and the source of the data.
+
+⦁	First the cities to be examined with be determined from Wikipedia.
+(https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors) this list is based off the data from 2018 Euromonitor.
+Based on this data Top two cities to be compared will be Hong Kong and Bangkok. Bottom two cities will be Krabi and Bangalore.  
+
+City location- sourced from Geocoders package
+
+Venues data- sourced from Foursquare API
+
+Data from Foursquare will be used to extract the number of venues populating the cities. A comparison will then be made on the venues of each city.
+Idea is that the top cities will have similar characteristics while the bottom cities will have dissimilar characteristics
