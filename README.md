@@ -10,11 +10,17 @@ Part of the ongoing narrative regarding Austin, Texas is that the city is not on
 #Data 
 
 The data sources for this project. 
+
 https://www.sanjose.org/neighborhoods
+
 https://www.homecity.com/blog/best-neighborhoods-in-austin/
+
 Foursquare API
+
 https://www.google.com/maps
+
 GeoPy
+
 
 #Data Sourcing and Cleaning
  
